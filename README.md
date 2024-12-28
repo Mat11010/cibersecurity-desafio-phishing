@@ -19,4 +19,5 @@
 ### Resultados
 
 <img src="Captura de tela 2024-12-27 200006.png" alt="txt">
+<img src="Captura de tela 2024-12-27 200035.png" alt="txt">
 <img src="Captura de tela 2024-12-27 200345.png" alt="txt">
