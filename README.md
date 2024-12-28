@@ -16,7 +16,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
 
-![Alt text](./Captura de tela 2024-12-27 200345.png "Optional title")
+<img src="Captura de tela 2024-12-27 200345.png" alt="txt">
