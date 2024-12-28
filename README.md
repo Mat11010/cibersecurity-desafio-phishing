@@ -23,3 +23,8 @@
 <img src="Captura de tela 2024-12-27 200106.png" alt="txt">
 <img src="Captura de tela 2024-12-27 200345.png" alt="txt">
 
+Devido às atualizações dos navegadores, o método de ataque "Site Cloner" pode não funcionar em todos os casos.
+
+Tive de utilizar o Método "Web Templates" e escolhi a opção "Twitter", como mostrado nas imagens abaixo
+
+
