@@ -27,4 +27,6 @@ Devido às atualizações dos navegadores, o método de ataque "Site Cloner" pod
 
 Tive de utilizar o Método "Web Templates" e escolhi a opção "Twitter", como mostrado nas imagens abaixo
 
-
+<img src="Captura de tela 2024-12-28 100705.png" alt="txt">
+<img src="Captura de tela 2024-12-28 100738.png" alt="txt">
+<img src="Captura de tela 2024-12-28 100550.png" alt="txt">
